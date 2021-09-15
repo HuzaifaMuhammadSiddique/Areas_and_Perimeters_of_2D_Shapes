@@ -1,3 +1,4 @@
 l = int(input("Length of one side of the square: "))
 A = l * l
 print("Area of the Square is " + str(A))
+
