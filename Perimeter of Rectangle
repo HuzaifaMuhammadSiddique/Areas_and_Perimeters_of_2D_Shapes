@@ -1,0 +1,6 @@
+h = int(input("Enter the height of the rectangle: ))
+l = int(input("Enter the length of the rectangle: ))
+
+perimeter = 2 * (l + h)
+
+print("The Perimeter of this Rectangle is " + str(perimeter)
