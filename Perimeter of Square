@@ -1,0 +1,2 @@
+l = int(input("Enter the length of one side of the square:  "))
+print("Perimeter of this Square is " + str(4 * l))
